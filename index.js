@@ -19,3 +19,9 @@ function add(a,b,c=10) {
 function multiply(a, b) {
     return a * b;
 }
+
+function logout(username){
+    if(username !== undefined){
+        //로그아웃 처리
+    }
+}
