@@ -22,6 +22,8 @@ function multiply(a, b) {
 
 function logout(username){
     if(username !== undefined){
-        //로그아웃 처리
+        //로그아웃 처리        
     }
 }
+
+
